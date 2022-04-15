@@ -30,6 +30,7 @@ asmlinkage int sys_getprocessinfS22(int f, struct procdat *data)
 		return -1;
 	}
 	else {
+		
 		return -1;
 	}
 	sti();
