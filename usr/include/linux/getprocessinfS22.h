@@ -14,3 +14,4 @@ struct procdat {
 	long prio;
 };
 _syscall2(int, getprocessinfS22, int, f, struct procdat*, p);
+// tutorial
